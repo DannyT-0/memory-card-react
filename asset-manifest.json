@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card-react/static/css/main.cbe07dd0.css",
+    "main.js": "/memory-card-react/static/js/main.56119c3b.js",
+    "static/media/soos.png": "/memory-card-react/static/media/soos.6ed74e18472a0a428b8d.png",
+    "static/media/gnome-rainbow.png": "/memory-card-react/static/media/gnome-rainbow.e0c83639ef75a1a8d6cd.png",
+    "static/media/old-man.png": "/memory-card-react/static/media/old-man.0c056bd5334ebf4a28a0.png",
+    "static/media/wendy.png": "/memory-card-react/static/media/wendy.8219de2956312d02b293.png",
+    "static/media/waddles.png": "/memory-card-react/static/media/waddles.1d3df93091d9aaa5aad3.png",
+    "static/media/stanford.png": "/memory-card-react/static/media/stanford.dbbe60ea204e06dfb4f2.png",
+    "static/media/candy-chiu.png": "/memory-card-react/static/media/candy-chiu.b4fcccc954a696e2d82b.png",
+    "static/media/gideon.png": "/memory-card-react/static/media/gideon.699abb2d381b9368a6ea.png",
+    "static/media/dipper-pines.png": "/memory-card-react/static/media/dipper-pines.9e7105ede167e50f53f7.png",
+    "static/media/bill-cipher.png": "/memory-card-react/static/media/bill-cipher.4ec1fa543de84b2acd5c.png",
+    "static/media/grunkle-stan.png": "/memory-card-react/static/media/grunkle-stan.ce15d513fe8d876f0265.png",
+    "static/media/mabel-pines.png": "/memory-card-react/static/media/mabel-pines.515d5c6219be491e750c.png",
+    "index.html": "/memory-card-react/index.html",
+    "main.cbe07dd0.css.map": "/memory-card-react/static/css/main.cbe07dd0.css.map",
+    "main.56119c3b.js.map": "/memory-card-react/static/js/main.56119c3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe07dd0.css",
+    "static/js/main.56119c3b.js"
+  ]
+}
